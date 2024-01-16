@@ -30,7 +30,7 @@ To get started with JEFE TOKEN, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/jefe-token.git
+   git clone https://github.com/jefetoken/JEFE-OPSTACK.git
 
 
 
