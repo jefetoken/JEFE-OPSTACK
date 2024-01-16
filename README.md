@@ -38,7 +38,7 @@ To get started with JEFE TOKEN, follow these steps:
 Dive into the codebase to understand our implementation and contribute to the development.
 
 ## Documentation:
-For detailed information on JEFE TOKEN, refer to our Documentation section. It provides guides, API references, and other essential information to help you understand and contribute to the project.
+For detailed information on JEFE TOKEN, refer to our Documentation section https://docs.jefetoken.com it provides guides, API references, and other essential information to help you understand and contribute to the project.
 
 Benefits of Optimism Layer 2 in Gaming:
 Working with Optimism Layer 2 provides several benefits for gaming applications:
@@ -66,7 +66,7 @@ OpenSea Marketplace NFTS - https://opensea.io/collection/jefe-zombie/overview
 Explore and acquire unique assets, including the music soundtrack NFTs, characters, and more on our OpenSea Marketplace. These assets are designed for use in the development of a virtual reality multiverse.
 
 Roadmap:
-Our roadmap outlines the upcoming milestones and features planned for JEFE TOKEN. View the Roadmap on jefetoken.com to stay informed about our development trajectory.
+Our roadmap outlines the upcoming milestones and features planned for JEFE TOKEN. View the Roadmap on https://jefetoken.com to stay informed about our development trajectory.
 
 ## Community:
 Join our growing community to connect with other enthusiasts, ask questions, and stay updated on the latest developments. Visit our Community Page for forums, discussions, and more.
