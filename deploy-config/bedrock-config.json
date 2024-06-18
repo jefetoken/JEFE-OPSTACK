@@ -1,0 +1,81 @@
+{
+  "l1StartingBlockTag": "0x8de2317dc55da60aa750b8b5319089d5fc33b3b2203f2de0fb650a28884b66ed",
+
+  "l1ChainID": 11155420,
+  "l2ChainID": 42069,
+  "l2BlockTime": 2,
+  "l1BlockTime": 12,
+
+  "maxSequencerDrift": 600,
+  "sequencerWindowSize": 3600,
+  "channelTimeout": 300,
+
+
+  "OptimismPortalProxy":"0xa0ee2a9dc39D8da2086e2726aC079c4c4E0B556E",
+  "SystemConfigProxy":"0xe384f8ACe754Da077A56D9F5c2768595AC550725",
+  "L1ERC721BridgeProxy":"0xf9D7AFa47b15DD9BB91eC20A308f31d02785dc0E",
+  "L1CrossDomainMessengerProxy":"0x53559CDd56deFe076DF7910cFA767a09422FB340",
+  "p2pSequencerAddress": "0x7F0CB3fE21AbD0Ba2DB3ea9AFE91b0587Cb4DD2b",
+  "batchInboxAddress": "0xff00000000000000000000000000000000042069",
+  "batchSenderAddress": "0x1F1a029BA54513981e4AB05EfF4383647AeB76fF",
+
+
+
+
+
+
+  "l2OutputOracleSubmissionInterval": 120,
+  "l2OutputOracleStartingBlockNumber": 0,
+  "l2OutputOracleStartingTimestamp": 1715978144,
+
+  "l2OutputOracleProposer": "0x01F092c719CfA89B1095F524DC1b0325fC652Fa9",
+  "l2OutputOracleChallenger": "0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF",
+
+  "finalizationPeriodSeconds": 12,
+  "L1StandardBridgeProxy": "0xa019934d7B8fe7814e3d36D588E74eFF8Cce8C9a",
+  "proxyAdminOwner": "0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF",
+  "baseFeeVaultRecipient": "0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF",
+  "l1FeeVaultRecipient": "0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF",
+  "sequencerFeeVaultRecipient": "0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF",
+  "finalSystemOwner": "0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF",
+  "superchainConfigGuardian": "0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF",
+
+  "baseFeeVaultMinimumWithdrawalAmount": "0x8ac7230489e80000",
+  "l1FeeVaultMinimumWithdrawalAmount": "0x8ac7230489e80000",
+  "sequencerFeeVaultMinimumWithdrawalAmount": "0x8ac7230489e80000",
+  "baseFeeVaultWithdrawalNetwork": 0,
+  "l1FeeVaultWithdrawalNetwork": 0,
+  "sequencerFeeVaultWithdrawalNetwork": 0,
+
+  "gasPriceOracleOverhead": 2100,
+  "gasPriceOracleScalar": 1000000,
+
+  "enableGovernance": true,
+  "governanceTokenSymbol": "OP",
+  "governanceTokenName": "Optimism",
+  "governanceTokenOwner": "0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF",
+
+  "l2GenesisBlockGasLimit": "0x1c9c380",
+  "l2GenesisBlockBaseFeePerGas": "0x3b9aca00",
+  "l2GenesisRegolithTimeOffset": "0x0",
+
+  "eip1559Denominator": 50,
+  "eip1559DenominatorCanyon": 250,
+  "eip1559Elasticity": 6,
+
+  "l2GenesisRegolithTimeOffset": "0x0",
+  "l2GenesisDeltaTimeOffset": null,
+  "l2GenesisCanyonTimeOffset": "0x0",
+
+  "systemConfigStartBlock": 0,
+
+  "requiredProtocolVersion": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "recommendedProtocolVersion": "0x0000000000000000000000000000000000000000000000000000000000000000",
+
+  "faultGameAbsolutePrestate": "0x03c7ae758795765c6664a5d39bf63841c71ff191e9189522bad8ebff5d4eca98",
+  "faultGameMaxDepth": 44,
+  "faultGameMaxDuration": 1200,
+  "faultGameGenesisBlock": 0,
+  "faultGameGenesisOutputRoot": "0x0000000000000000000000000000000000000000000000000000000000000000",
+  "faultGameSplitDepth": 14
+}
