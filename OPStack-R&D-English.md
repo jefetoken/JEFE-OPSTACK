@@ -131,7 +131,7 @@ JEFE TOKEN, through its DAPP JEFE COMPASS, generates the exposure of a digital m
 It will be used as a practical example to measure the storage demand and operating costs of an NFT generated from the graphic content of the first edition of the JEFE TOKEN digital magazine.
 
 Step 1. Monitor Information
-JEFE COMPASS E-MAGAZINE I NFT Contract: <a href="https://optimistic.etherscan.io/token/0x4e13201ED7a029BC38A34A9b377F397D0D98a3BC">
+<a href="https://optimistic.etherscan.io/token/0x4e13201ED7a029BC38A34A9b377F397D0D98a3BC">JEFE COMPASS E-MAGAZINE I NFT Contract: </a>
 Opmainnet
   • Visit Etherscan for Optimism: https://optimism.etherscan.io/
   • Search by Contract Address
