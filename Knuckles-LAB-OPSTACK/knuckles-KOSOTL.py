@@ -2,6 +2,13 @@ import os
 import sys
 import time
 import json
+#Active development feel free to contribute OPEN SOURCE licence MIT. 
+#info@jfetoken.com
+#https://t.me/jefetokencryptochat
+#https://github.com/jefetoken/JEFE-OPSTACK/tree/main/Knuckles-LAB-OPSTACK
+#Opstack mono repo clone madatory
+#Knuckles - KOSOTL 0.1  - Knuckles Open Source OPStack Tool
+#Active development 
 
 # Color codes for terminal output
 RED = '\033[91m'
