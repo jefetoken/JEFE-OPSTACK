@@ -1,3 +1,5 @@
+
+
 # JEFE TOKEN GitHub Repository
 
 Welcome to the official GitHub repository for JEFE TOKEN, a cutting-edge project that explores the intersection of art, gaming, cross-chain gameplay, virtual realities, and much more. This repository serves as a central hub for our research and development efforts, providing a transparent and collaborative space for the community to engage with our work.
@@ -8,8 +10,8 @@ Welcome to the official GitHub repository for JEFE TOKEN, a cutting-edge project
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Documentation](#documentation)
+- [Op Stack](#opstack)
 - [ZOMBIE](#jefezombie)
-- [Documentation](#documentation)
 - [Community](#community)
 - [License](#license)
 
@@ -48,25 +50,21 @@ Reduced Transaction Costs: By offloading transactions to Layer 2, users can expe
 Faster Confirmation Times: Optimism offers faster confirmation times for transactions, leading to a more responsive and seamless gaming experience.
 Contributing:
 We welcome contributions from the community. Whether you are a developer, designer, or enthusiast, your input is valuable. Check out our Contribution Guidelines to get started.
+## OPSTACK
+## KNUCKLES OPCHAIN - OPSTACK - OPTIMISM BLOCKCHAIN LAYER 2
 
-## JEFEZOMBIE
-## JEFE ZOMBIE THE MULTIVERSE GAME
+The latest updated research on KNUCKLES OP CHAIN [30.07.24] here you can find the full scientific investigation of the implementation of an OPTIMISM BLOCKCHAIN using the OP STACK , for the use of JEFE TOKEN we will call this KNUCKLES , along with it there is a tool named KOSOTL [Knuckles Open Source OpStack Tool] this software allow developers & engineers to roll up & configure their own blockchain Layer 2 type using the Optimism Stack provided by their documentation & github.
 
-Our research and development efforts are actively applied to the game JEFE Zombie, available on multiple platforms:
-
-iOS Version - https://apps.apple.com/do/app/jefe-zombie/id1638269161 
-
-Android Version - https://play.google.com/store/apps/details?id=com.jefetoken.jefezombi3&hl=es_MX&gl=US
-
-PC Version - https://jefetoken.com/jefezombiepc/JEFEZOMBIEPC.zip
+ Knuckles Open Source OPSTACK Tool - [KOSOTL 0.1]([https://pages.github.com](https://github.com/jefetoken/JEFE-OPSTACK/tree/main/Knuckles-LAB-OPSTACK)/).
 
 
-OpenSea Marketplace NFTS - https://opensea.io/collection/jefe-zombie/overview
-
-Explore and acquire unique assets, including the music soundtrack NFTs, characters, and more on our OpenSea Marketplace. These assets are designed for use in the development of a virtual reality multiverse.
 
 Roadmap:
 Our roadmap outlines the upcoming milestones and features planned for JEFE TOKEN. View the Roadmap on https://jefetoken.com to stay informed about our development trajectory.
+
+![alt text]([http://url/to/img.png](https://jefetoken.com/img/knuckles-roadmap.jpg)
+
+
 
 ## Community:
 Join our growing community to connect with other enthusiasts, ask questions, and stay updated on the latest developments. Visit our Community Page for forums, discussions, and more.
