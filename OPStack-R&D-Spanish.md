@@ -241,6 +241,12 @@ Es útil la implementación de una blockchain propia cuando sea necesario tener 
 
 Adjuntos 
 
+Knuckles Testnet Contracts:
+
+<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/deploy-config/bedrock-config.json"/>
+
+<br>
+
 Pruebas y testing the Knuckles usndo nodo de Alchemy , request, transacciones, Opchain en Sepolia 
 
 <img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles2.png"/>
