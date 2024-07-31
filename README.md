@@ -1,5 +1,5 @@
 
-
+https://github.com/jefetoken/JEFE-OPSTACK/tree/main
 # JEFE TOKEN GitHub Repository
 
 Welcome to the official GitHub repository for JEFE TOKEN, a cutting-edge project that explores the intersection of art, gaming, cross-chain gameplay, virtual realities, and much more. This repository serves as a central hub for our research and development efforts, providing a transparent and collaborative space for the community to engage with our work.
@@ -51,6 +51,12 @@ Contributing:
 We welcome contributions from the community. Whether you are a developer, designer, or enthusiast, your input is valuable. Check out our Contribution Guidelines to get started.
 ## OPSTACK
 ## KNUCKLES OPCHAIN - OPSTACK - OPTIMISM BLOCKCHAIN LAYER 2
+
+OP STACK RESEARCH & DEVELOPMENT 
+
+
+
+
 
 The latest updated research on KNUCKLES OP CHAIN [30.07.24] here you can find the full scientific investigation of the implementation of an OPTIMISM BLOCKCHAIN using the OP STACK , for the use of JEFE TOKEN we will call this KNUCKLES , along with it there is a tool named KOSOTL [Knuckles Open Source OpStack Tool] this software allow developers & engineers to roll up & configure their own blockchain Layer 2 type using the Optimism Stack provided by their documentation & github.
 
