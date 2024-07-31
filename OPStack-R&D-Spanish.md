@@ -9,7 +9,7 @@ www.optimism.io
 ## Tabla de contenidos
 # INVESTIGACION & DESARROLLO - OPTIMISM STACK [OP STACK]
 
-```markdown
+
 # INVESTIGACION & DESARROLLO
 # OPTIMISM STACK [OP STACK]
 
