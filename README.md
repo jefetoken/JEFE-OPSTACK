@@ -61,8 +61,7 @@ The latest updated research on KNUCKLES OP CHAIN [30.07.24] here you can find th
 Roadmap:
 Our roadmap outlines the upcoming milestones and features planned for JEFE TOKEN. View the Roadmap on https://jefetoken.com to stay informed about our development trajectory.
 
-([[http://jefetoken.com/img/knuckles-roadmap.jpg]]()
-
+<a img="http://jefetoken.com/img/knuckles-roadmap.jpg" width="800px"/>
 
 
 ## Community:
