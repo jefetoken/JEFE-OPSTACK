@@ -5,11 +5,6 @@ www.jefetoken.com
 #OPStack
 www.optimism.io
 
-
-## Tabla de contenidos
-# INVESTIGACION & DESARROLLO - OPTIMISM STACK [OP STACK]
-
-
 # INVESTIGACION & DESARROLLO
 # OPTIMISM STACK [OP STACK]
 
