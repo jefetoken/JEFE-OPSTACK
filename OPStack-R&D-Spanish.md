@@ -1,3 +1,4 @@
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/opstack.jpg">
 INVESTIGACION & DESARROLLO
 OPTIMISM STACK [OP STACK]
 www.jefetoken.com
