@@ -11,7 +11,6 @@ Welcome to the official GitHub repository for JEFE TOKEN, a cutting-edge project
 - [Getting Started](#getting-started)
 - [Documentation](#documentation)
 - [Op Stack](#opstack)
-- [ZOMBIE](#jefezombie)
 - [Community](#community)
 - [License](#license)
 
@@ -62,7 +61,7 @@ The latest updated research on KNUCKLES OP CHAIN [30.07.24] here you can find th
 Roadmap:
 Our roadmap outlines the upcoming milestones and features planned for JEFE TOKEN. View the Roadmap on https://jefetoken.com to stay informed about our development trajectory.
 
-![alt text]([http://url/to/img.png](https://jefetoken.com/img/knuckles-roadmap.jpg)
+([[http://jefetoken.com/img/knuckles-roadmap.jpg]]()
 
 
 
