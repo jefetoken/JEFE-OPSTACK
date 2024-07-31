@@ -18,7 +18,15 @@ Welcome to the official GitHub repository for JEFE TOKEN, a cutting-edge project
 
 JEFE TOKEN is a revolutionary project that seeks to push the boundaries of what is possible in the realms of art, gaming, and virtual realities. Our mission is to create a seamless and immersive experience for users across various platforms, leveraging the power of blockchain and cross-chain technologies.
 
+
 ## Features
+
+Latest research : OpChain using OpStack - Knuckles Open Source OPStack TOOL [KOSOTL 0.1] - All information is still in active development so updates are expected . 
+
+<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/OPStack-R%26D-English.md">OPSTACK RESERACH & DEVELOPMENT</a>
+
+
+<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/OPStack-R%26D-Spanish.md">OPSTACK RESERACH & DEVELOPMENT [SPANISH]</a>
 
 - **Art Integration:** Explore the fusion of blockchain technology with the world of art, creating unique and verifiable digital assets.
 - **Gaming Innovation:** Dive into the future of gaming with JEFE TOKEN, where cross-chain gameplay opens up new possibilities for players.
