@@ -252,7 +252,13 @@ Knuckles Testnet Contracts:
 
 
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/deploy-config/bedrock-config.json"/>
+Knuckles Config Bedrock Addresses <a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/deploy-config/bedrock-config.json"/>
+
+Admin Sepolia Knuckles Address <a href="https://sepolia-optimism.etherscan.io/address/0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF">
+
+Proposer Sepolia Knuckles Address <a href="https://sepolia-optimism.etherscan.io/address/0x01F092c719CfA89B1095F524DC1b0325fC652Fa9 ">
+
+Batcher Sepolia Knuckles Address <a href="https://sepolia-optimism.etherscan.io/address/0x1F1a029BA54513981e4AB05EfF4383647AeB76fF">
 
 <br>
 
