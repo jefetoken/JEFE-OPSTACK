@@ -270,3 +270,7 @@ Pruebas y testing the Knuckles usndo nodo de Alchemy , request, transacciones, O
 <img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestjuly.png"/>
 
 <img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requests.png"/>
+
+Knuckles Running Testnet Sepolia
+
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/payload.png"/>
