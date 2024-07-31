@@ -159,7 +159,7 @@ ETH SEPHOLIA 	~10 Eth en Testnet
  	 
 TOTAL	70 USD / Mes + Nodo testnet (Basado en Unidades de Computo) 
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/apikeycosts.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/apikeycosts.png"/> 
 
 La información mostrada es en términos de Sepolia Testnet y los valores deben ser considerados aproximados en un despliegue de producción basado en la carga de información que el proyecto proyecta tener. 
 
