@@ -167,7 +167,7 @@ ETH SEPHOLIA ~10 Eth in Testnet
 
 TOTAL 70 USD / Month + Testnet node (Based on Computing Units)
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/apikeycosts.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/apikeycosts.png"/>
 
 The information shown is in terms of Sepolia Testnet and the values ​​should be considered approximate in a production deployment based on the information load that the project plans to have.
 
@@ -248,17 +248,15 @@ Deploying an own blockchain is useful when a decentralized approach is needed, w
 
 Attachments
 
-Knuckles Testnet Contracts:
 
 
+<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/deploy-config/bedrock-config.json">Knuckles Testnet Sepolia Config Bedrock Addresses Knuckles Config Bedrock Addresses  </a>
 
-Knuckles Config Bedrock Addresses <a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/deploy-config/bedrock-config.json"/>
+ <a href="https://sepolia-optimism.etherscan.io/address/0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF">Admin Sepolia Knuckles Address </a>
 
-Admin Sepolia Knuckles Address <a href="https://sepolia-optimism.etherscan.io/address/0x467d8E8764ca8e4101F74F35cd1147d932EeB1fF">
+<a href="https://sepolia-optimism.etherscan.io/address/0x01F092c719CfA89B1095F524DC1b0325fC652Fa9 ">Proposer Sepolia Knuckles Address  </a>
 
-Proposer Sepolia Knuckles Address <a href="https://sepolia-optimism.etherscan.io/address/0x01F092c719CfA89B1095F524DC1b0325fC652Fa9 ">
-
-Batcher Sepolia Knuckles Address <a href="https://sepolia-optimism.etherscan.io/address/0x1F1a029BA54513981e4AB05EfF4383647AeB76fF">
+ <a href="https://sepolia-optimism.etherscan.io/address/0x1F1a029BA54513981e4AB05EfF4383647AeB76fF">Batcher Sepolia Knuckles Address </a>
 
 <br>
 
