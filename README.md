@@ -1,4 +1,4 @@
-
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/knuckles-roadmap.jpg"/>
 https://github.com/jefetoken/JEFE-OPSTACK/tree/main
 # JEFE TOKEN GitHub Repository
 
