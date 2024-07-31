@@ -206,9 +206,9 @@ o	El almacenamiento en una blockchain es costoso en términos de gas. Optimism, 
 o	La codificación base64 aumenta el tamaño de los datos en aproximadamente un 33%. Por lo tanto, los 100 kB de datos originales se convertirán en aproximadamente 133 kB en base64.
 
 
-JEFE COMPASS contiene +1600 Usuarios activos realizando votaciones de deportes 1,218,303 bytes
-JEFE GREEN mediciones mediante sensores off chain que apoyan la reforestación  171,000 bytes
-JEFE REWARDS recompensas por la participación e información compartida entre la comunidad + 114,104 bytes
+JEFE COMPASS contiene +1600 Usuarios activos realizando votaciones de deportes almacenando 1,218,303 bytes<br><br>
+JEFE GREEN mediciones mediante sensores off chain que apoyan la reforestación  almacenando 171,000 bytes<br><br>
+JEFE REWARDS recompensas por la participación e información compartida entre la comunidad almacenando + 114,104 bytes<br><br>
 Data creada por cada 30 dias de la semana.
 
 Si tienes 100 kB de datos:
