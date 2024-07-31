@@ -130,7 +130,7 @@ JEFE TOKEN mediante su DAPP JEFE COMPASS genera la exposición de una revista di
 Se utilizará como ejemplo práctico para medir la demanda de almacenamiento y costos de operación de un NFT generado del contenido grafico de la primer edición de la revista digital de JEFE TOKEN.
 
 Paso 1. Monitoreo de información
-Contrato de NFT  JEFE COMPASS E-MAGAZINE I : 	
+Contrato de NFT  JEFE COMPASS E-MAGAZINE I : 	<a href="https://optimistic.etherscan.io/token/0x4e13201ED7a029BC38A34A9b377F397D0D98a3BC">
 Opmainnet 
 •	Visita Etherscan para Optimism: https://optimism.etherscan.io/  
 •	Busca por Dirección de Contrato
@@ -246,32 +246,32 @@ Es útil la implementación de una blockchain propia cuando sea necesario tener 
 
 Adjuntos 
 
-Pruebas y testing the Knuckles usndo nodo de Alchemy 
+Pruebas y testing the Knuckles usndo nodo de Alchemy , request, transacciones, Opchain en Sepolia 
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles2.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles2.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles3.png"/
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles3.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles4.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles4.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles5.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles5.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles6.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles6.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles7.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/knuckles7.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/request%20june.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/request%20june.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestalchemy.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestalchemy.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestgraph.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestgraph.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestgraph2.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestgraph2.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestgraph3.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestgraph3.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requesthealthknuckles1.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requesthealthknuckles1.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestjuly.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requestjuly.png"/>
 
-<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requests.png"/>
+<img src="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/Knuckles-Extra/requests.png"/>
