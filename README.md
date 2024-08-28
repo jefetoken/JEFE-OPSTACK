@@ -60,7 +60,13 @@ We welcome contributions from the community. Whether you are a developer, design
 ## OPSTACK
 ## KNUCKLES OPCHAIN - OPSTACK - OPTIMISM BLOCKCHAIN LAYER 2
 
-OP STACK RESEARCH & DEVELOPMENT 
+RPC knuckles OPCHAIN:
+
+51.195.202.219:8545
+
+Chainid 42069 
+
+Active OP STACK RESEARCH & DEVELOPMENT 
 
 
 
