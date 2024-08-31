@@ -75,18 +75,17 @@ RPC knuckles OPCHAIN:
 
 Chainid 42069 
 
+Knuckles OPChain Explorer <a href="https://explorer.jefetoken.com">EXPLORER KNUCKLES OP CHAIN</a> <br> www.explorer.jefetoken.com <br> <a href="http://217.182.72.132:3001/">http://217.182.72.132:3001/</a><br><br>
 Active OP STACK RESEARCH & DEVELOPMENT 
-
-
-
 
 
 The latest updated research on KNUCKLES OP CHAIN [30.07.24] here you can find the full scientific investigation of the implementation of an OPTIMISM BLOCKCHAIN using the OP STACK , for the use of JEFE TOKEN we will call this KNUCKLES , along with it there is a tool named KOSOTL [Knuckles Open Source OpStack Tool] this software allow developers & engineers to roll up & configure their own blockchain Layer 2 type using the Optimism Stack provided by their documentation & github.
 
  Knuckles Open Source OPSTACK Tool - [KOSOTL 0.1]([https://pages.github.com](https://github.com/jefetoken/JEFE-OPSTACK/tree/main/Knuckles-LAB-OPSTACK)/).
 
-
-
+Latest updates: <a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/OPStack-R%26D-English-Improvement%26Storage.md">UPDATED RESEARCH & DEV - ENGLSIH </a> <BR><BR>
+Latest updates: <a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/OPStack-R%26D-Spanish-Improvement%26Storage.md">UPDATED RESEARCH & DEV - SPANISH </a> <BR><BR>
+<br>
 Roadmap:
 Our roadmap outlines the upcoming milestones and features planned for JEFE TOKEN. View the Roadmap on https://jefetoken.com to stay informed about our development trajectory.
 
