@@ -19,14 +19,23 @@ Welcome to the official GitHub repository for JEFE TOKEN, a cutting-edge project
 JEFE TOKEN is a revolutionary project that seeks to push the boundaries of what is possible in the realms of art, gaming, and virtual realities. Our mission is to create a seamless and immersive experience for users across various platforms, leveraging the power of blockchain and cross-chain technologies.
 
 
-## Features
+## Features on research & development
 
 Latest research : OpChain using OpStack - Knuckles Open Source OPStack TOOL [KOSOTL 0.1] - All information is still in active development so updates are expected . 
 
 <a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/OPStack-R%26D-English.md">OPSTACK RESERACH & DEVELOPMENT</a>
 
+Continuation of Research & Development of the blockchain knuckles with the op stack of optimism, improvements & storage 
+
+<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/OPStack-R%26D-Spanish-Improvement%26Storage.md"> OPSTACK RESEARCH & DEVELOPMENT CONTINUATION IMPROVEMENTS & STORAGE</a>
+
+FOR LATAM & SPANISH VERSION THE FOLLOWING LINK CONTAINS THE CONTINUATION OF IMPROVEMENTS & STORAGE RESEARCH OF KNUCKLES OP CHAIN
+
+
 
 <a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/OPStack-R%26D-Spanish.md">OPSTACK RESERACH & DEVELOPMENT [SPANISH]</a>
+
+<a href="https://github.com/jefetoken/JEFE-OPSTACK/blob/main/OPStack-R%26D-Spanish-Improvement%26Storage.md">Progreso en el Desarrollo de Blockchain con el OP STACK de Optimism: El Caso de Knuckles [OPSTACK RESEARCH & DEVELOPMENT CONTINUATION] </a>
 
 - **Art Integration:** Explore the fusion of blockchain technology with the world of art, creating unique and verifiable digital assets.
 - **Gaming Innovation:** Dive into the future of gaming with JEFE TOKEN, where cross-chain gameplay opens up new possibilities for players.
