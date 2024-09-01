@@ -75,7 +75,7 @@ RPC knuckles OPCHAIN:
 
 Chainid 42069 
 
-Knuckles OPChain Explorer <a href="https://explorer.jefetoken.com">EXPLORER KNUCKLES OP CHAIN</a> <br> www.explorer.jefetoken.com <br> <a href="http://217.182.72.132:3001/">http://217.182.72.132:3001/</a><br><br>
+Knuckles OPChain Explorer <a href="https://explorer.jefetoken.com">EXPLORER KNUCKLES OP CHAIN</a> <br> https://explorer.jefetoken.com <br> <a href="http://217.182.72.132:3001/">http://217.182.72.132:3001/</a><br><br>
 Active OP STACK RESEARCH & DEVELOPMENT 
 
 
